@@ -1,11 +1,11 @@
-
+import { Card } from "./Card/Card"
+import { Grid } from "./Grid/Grid"
 function App() {
 
   return (
     <>
-        <h1>asdasdasdasdasda</h1>
+        <Grid/>
     </>
-  )
-}
+  )}
 
 export default App
