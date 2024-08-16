@@ -1,8 +1,24 @@
-# React + Vite
+# Memotest de ale
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+*este  es el mejor memotest que existe en el mundo mundial y lo hice yo*
 
-Currently, two official plugins are available:
+##Reglas del juego
+-El juego consiste en emparejar las cartas iguales
+-El juego termina cuando se encuentran todos los pares de cartas
+- El juego debe ser jugado por **dos jugadores**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Como jugar
+
+1. Ingresar el nombre de los jugadores
+2. Clickear sobre las cartas para encontrar los pares
+3. Ganara el jugador que encuentre mas pares
+
+## Tecnologias utilizadas
+- HTML
+- CSS 
+- JavaScript
+- React 
+- TailwindCSS
+
+### codigo 
+esto fue lo que mas me costo
